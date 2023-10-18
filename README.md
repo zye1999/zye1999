@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 -🌱 I’m currently learning Data Science.
 
--⚡ Fun fact: I have a black cat, and I name it 'Rabbit'!
+-⚡ Fun fact: I have a black cat, and I name him 'Rabbit'!

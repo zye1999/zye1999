@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 -🔭 I’m currently a master student in UZH.
+
 -🌱 I’m currently learning Data Science.
+
 -⚡ Fun fact: I have a black cat, and I name it 'Rabbit'!
